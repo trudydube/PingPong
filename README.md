@@ -9,3 +9,12 @@ The game will automatically begin.
 Goal: The goal is to not let the ball get past the player's side of the screen. Block the ball by positioning the paddle in front of it. The first to 5 points between the player and the AI wins.
 
 Controls: Use the up and down arrow keys to move the paddle up and down.
+
+## Project Structure
+PingPong/
+|-- src/
+|  |-- index.html
+|  |-- styles.css
+|  |-- game.js
+|-- README.md
+|-- LICENSE
