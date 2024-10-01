@@ -12,8 +12,8 @@ Controls: Use the up and down arrow keys to move the paddle up and down.
 
 ## Project Structure
 PingPong/
-|-- src/
-|  |-- index.html
+|-- src/ <br/>
+|  |-- index.html <br/>
 |  |-- styles.css
 |  |-- game.js
 |-- README.md
