@@ -6,6 +6,6 @@ In order to run the game, all you have to do is download the src folder, and the
 The game will automatically begin.
 
 ## How to Play
-Goal: The goal is to not let the ball get past the player's side of the screen. Block the ball by positioning the paddle
-      in front of it. The first to 5 points between the player and the AI wins.
+Goal: The goal is to not let the ball get past the player's side of the screen. Block the ball by positioning the paddle in front of it. The first to 5 points between the player and the AI wins.
+
 Controls: Use the up and down arrow keys to move the paddle up and down.
