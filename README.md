@@ -11,10 +11,10 @@ Goal: The goal is to not let the ball get past the player's side of the screen. 
 Controls: Use the up and down arrow keys to move the paddle up and down.
 
 ## Project Structure
-PingPong/
+PingPong/ <br/>
 |-- src/ <br/>
 |  |-- index.html <br/>
-|  |-- styles.css
-|  |-- game.js
-|-- README.md
+|  |-- styles.css <br/>
+|  |-- game.js <br/>
+|-- README.md <br/>
 |-- LICENSE
